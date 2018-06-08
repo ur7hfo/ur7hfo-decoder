@@ -152,7 +152,7 @@ int main(void)
 	ssd1306_SetCursor(0, 0);
 	ssd1306_WriteString("UR7HFO", Font_7x10, White);
 	ssd1306_SetCursor(0, 16);
-	ssd1306_WriteString("DECODER 0.31a", Font_7x10, White);
+	ssd1306_WriteString("DECODER 0.01a", Font_7x10, White);
 	ssd1306_UpdateScreen();
 	HAL_Delay(1000);
 	ssd1306_Fill(Black);
@@ -165,7 +165,7 @@ int main(void)
 	LCD_SetPos(0,0);
 	LCD_String("UR7HFO");
 	LCD_SetPos(0,1);
-	LCD_String("DECODER 0.31a");
+	LCD_String("DECODER 0.01a");
 	HAL_Delay(1000);
 	LCD_Clear();
 #endif
