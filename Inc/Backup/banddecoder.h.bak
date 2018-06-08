@@ -2,7 +2,7 @@
  * Pin maps, and other. 
  *
  * UART1 - TRX KENWOOD      (PA10->RX, PA9->TX)
- * UART2 -                  (PA3->RX, PA2->TX)
+ * UART2 -                  (PA3->RX (real logger), PA2->TX (kenwood output ))
  * UART3 - ICOM EMULATOR    (PB11->RX, PB10->TX)
  *
  * B7 - I2C (SDA) LCD16x2 DISPLAY (address 0x3f) 
