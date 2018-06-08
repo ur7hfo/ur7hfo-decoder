@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-<ProjectName>D:\stm32.prj\ur7hfo-decoder\\band-decoder-lite-31-atolic</ProjectName>
+<ProjectName>D:\stm32.prj\ur7hfo-decoder\\ur7hfo-decoder</ProjectName>
 <ProjectNature>C</ProjectNature> 
 <CMSIS>..\Drivers\CMSIS</CMSIS>
 <HAL_Driver>C:\Users\dima\STM32Cube\Repository\STM32Cube_FW_F1_V1.6.1\Drivers\CMSIS</HAL_Driver>
@@ -22,7 +22,7 @@
 
 <configs>
   <config>
-    <name>band-decoder-lite-31-atolic</name>				
+    <name>ur7hfo-decoder</name>				
     <device>STM32F103C8Tx</device>		 
     <heapSize>0x500</heapSize>
     <stackSize>0x1000</stackSize>
