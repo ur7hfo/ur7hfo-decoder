@@ -1,7 +1,13 @@
 [PreviousGenFiles]
+<<<<<<< HEAD
 HeaderPath=C:/Users/dima/Documents/GitHub/ur7hfo-decoder/Inc
 HeaderFiles=stm32f1xx_it.h;stm32f1xx_hal_conf.h;main.h;
 SourcePath=C:/Users/dima/Documents/GitHub/ur7hfo-decoder/Src
+=======
+HeaderPath=D:/stm32.prj/ur7hfo-decoder/Inc
+HeaderFiles=stm32f1xx_it.h;stm32f1xx_hal_conf.h;main.h;
+SourcePath=D:/stm32.prj/ur7hfo-decoder/Src
+>>>>>>> 3767a37dff345eb29b98b3b25c1efec0b95be66a
 SourceFiles=stm32f1xx_it.c;stm32f1xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]
